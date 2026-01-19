@@ -96,6 +96,8 @@ npm install
 
 ## 🚀 Quick Start
 
+> **📌 Demo Target:** The sample tests use [JSONPlaceholder](https://jsonplaceholder.typicode.com) - a free fake REST API for testing and prototyping.
+
 ### 1. Record API Traffic
 
 Run tests in record mode to capture real API responses:
